@@ -1,0 +1,6 @@
+li{list-style: none;}
+.container{width: 100%;}
+.slide_box{position:relative;}
+.slide_box img{position: absolute; width: 50%;margin-left: 25%;vertical-align: middle;}
+/* .left_arrow{position: absolute; background: url("arrow.png");background-size: contain; width: 120px; height: 120px; transform: rotate(90deg);}
+.right_arrow{position: absolute; background: url("arrow.png");background-size: contain; width: 120px; height: 120px; transform: rotate(-90deg);} */
